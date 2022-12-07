@@ -8,7 +8,7 @@
 ## 1) The program must run on Linux
 ## 2) The C++ of g++ 5.4 is preferred
 ## 3) GDAL must be installed
-## 4) You need to prepare a TIF image (INT16 format) with 46 layers (one year time series). For details, see lc08_024035_2_01.tif.
+## 4) You need to prepare a TIF image (INT16 format) with 64 layers (one year time series). For details, see lc08_024035_2_01.tif.
 ## 5) Operation Mode After entering the root directory of the program, run it in the following way:
 ### ./open_MP_EOS MOD09Q1_2019001_EVI2_8DSGF_EVI_Texas_sub.tif eos. tif #(Run EOS program, MOD09Q1_2019001_EVI2_8DSGF_EVI_Texas_sub.tif sample data, eos.tif output data)
 ### ./open_MP_SOS lc08_024035_2_01.tif sos. tif #
@@ -48,7 +48,7 @@ If any scientific research team needs to refer to this program, please add the r
 ## 1) 程序必须在linux 系统下运行
 ## 2) 最好是g++ 5.4 以上的C++版本
 ## 3) 必须安装GDAL
-## 4) 需要准备好一个包含46期影像(一年的时间序列)的tif （int16格式的，详细参考示例数据 LC08_024035_2_01.tif ）
+## 4) 需要准备好一个包含64期影像(一年的时间序列)的tif （int16格式的，详细参考示例数据 LC08_024035_2_01.tif ）
 ## 5) 运行方式 进入程序根目录后，用以下方式运行：
 ### ./open_MP_EOS MOD09Q1_2019001_EVI2_8DSGF_EVI_Texas_sub.tif  EOS.tif   #(运行EOS的程序  ，LC08_024035_2_01.tif 示例数据，EOS.tif  输出数据 )
 ### ./open_MP_SOS MOD09Q1_2019001_EVI2_8DSGF_EVI_Texas_sub.tif  SOS.tif  #(运行SOS的程序 )
