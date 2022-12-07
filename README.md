@@ -8,7 +8,7 @@
 ## 1) The program must run on Linux
 ## 2) The C++ of g++ 5.4 is preferred
 ## 3) GDAL must be installed
-## 4) You need to prepare a TIF image (INT16 format) with 64 layers (one year time series). For details, see lc08_024035_2_01.tif.
+## 4) You need to prepare a TIF image (INT16 format) with 64 layers (one year time series). For details, see Test_images_64_layers.tif.
 ## 5) Operation Mode After entering the root directory of the program, run it in the following way:
 ### ./open_MP_EOS Test_images_64_layers.tif eos. tif #(Run EOS program, Test_images_64_layers.tif sample data, eos.tif output data)
 ### ./open_MP_SOS Test_images_64_layers.tif sos. tif #
