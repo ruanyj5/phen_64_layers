@@ -15,15 +15,6 @@
 ## 6) The program can be called in batches through the.sh text to copy data to the output path
 ### ./sos.sh #(program to run EOS)
 ### ./eos.sh #
-## 7) EOS. Tif is the result of phenology. Contains 6 layers, 6 phenology results. The results correspond to the 6 algorithms in the following table:
-![Image don't exsit!](https://github.com/ruanyj5/phen0/blob/main/Algorithm%20Introduction%20.jpg)
-
-# Result maps
-
-## 250m分辨率美国本土地区8种不同的植被生长SOS图（250 m resolution mapping of land surface phenology across conterminous United States）.jpg
-![Image don't exsit!](https://github.com/ruanyj5/phen0/blob/main/250m%E5%88%86%E8%BE%A8%E7%8E%87%E7%BE%8E%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%9C%B0%E5%8C%BA8%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E6%A4%8D%E8%A2%AB%E7%94%9F%E9%95%BFSOS%E5%9B%BE%EF%BC%88250%20m%20resolution%20mapping%20of%20land%20surface%20phenology%20across%20conterminous%20United%20States%EF%BC%89.jpg)
-## 30m分辨率美国本土地区8种不同的植被生长SOS图（30 m resolution mapping of land surface phenology across conterminous United States）.jpg
-![Image doesn't exsit!](https://github.com/ruanyj5/phen0/blob/main/30m%E5%88%86%E8%BE%A8%E7%8E%87%E7%BE%8E%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%9C%B0%E5%8C%BA8%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E6%A4%8D%E8%A2%AB%E7%94%9F%E9%95%BFSOS%E5%9B%BE%EF%BC%8830%20m%20resolution%20mapping%20of%20land%20surface%20phenology%20across%20conterminous%20United%20States%EF%BC%89.jpg)
 
 # Citation
 
@@ -55,15 +46,6 @@ If any scientific research team needs to refer to this program, please add the r
 ## 6) 可以通过.sh 文本批量调用程序，将数据拷贝到output路径下
 ### ./sos.sh #(运行EOS的程序 )
 ### ./eos.sh #(运行SOS的程序 )
-## 7) EOS.tif  是物候的结果。包含6个图层，6种物候的结果。结果分别对应以下表格的6种算法：
-![图片不存在!](https://github.com/ruanyj5/phen0/blob/main/Algorithm%20Introduction%20.jpg)
-
-# 结果图
-
-## 250m分辨率美国本土地区8种不同的植被生长SOS图（250 m resolution mapping of land surface phenology across conterminous United States）.jpg
-![图片不存在!](https://github.com/ruanyj5/phen0/blob/main/250m%E5%88%86%E8%BE%A8%E7%8E%87%E7%BE%8E%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%9C%B0%E5%8C%BA8%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E6%A4%8D%E8%A2%AB%E7%94%9F%E9%95%BFSOS%E5%9B%BE%EF%BC%88250%20m%20resolution%20mapping%20of%20land%20surface%20phenology%20across%20conterminous%20United%20States%EF%BC%89.jpg)
-## 30m分辨率美国本土地区8种不同的植被生长SOS图（30 m resolution mapping of land surface phenology across conterminous United States）.jpg
-![图片不存在!](https://github.com/ruanyj5/phen0/blob/main/30m%E5%88%86%E8%BE%A8%E7%8E%87%E7%BE%8E%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%9C%B0%E5%8C%BA8%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E6%A4%8D%E8%A2%AB%E7%94%9F%E9%95%BFSOS%E5%9B%BE%EF%BC%8830%20m%20resolution%20mapping%20of%20land%20surface%20phenology%20across%20conterminous%20United%20States%EF%BC%89.jpg)
 
 # 引用
 
