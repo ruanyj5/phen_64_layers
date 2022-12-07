@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="open_MP_SOS_v1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="open_MP_SOS_v1">
+				<Option output="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/open_MP_SOS_v1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 open_MP_SOS_v1"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="open_MP_SOS_v1/fast">
+				<Option output="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/open_MP_SOS_v1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 open_MP_SOS_v1/fast"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j52 -f &quot;/public/app/clion-2019.3.3/open_MP_SOS_64_layers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/NDVI64to505.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/NDVI64to505.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/NDVI64to505_data.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/NDVI64to505_data.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/NDVI64to505_initialize.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/NDVI64to505_initialize.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/NDVI64to505_terminate.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/NDVI64to505_terminate.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/diff.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/diff.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/fillmissing.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/fillmissing.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/interp1.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/interp1.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/isLocalExtrema.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/isLocalExtrema.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/islocalmax.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/islocalmax.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/islocalmin.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/islocalmin.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/main.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/main.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/mean.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/mean.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/mpfit.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/mpfit.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/nullAssignment.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/nullAssignment.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/phen_6method.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/phen_6method.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/rtGetInf.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/rtGetInf.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/rtGetNaN.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/rtGetNaN.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/rt_nonfinite.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/rt_nonfinite.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/sort.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/sort.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/sortIdx.cpp">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/sortIdx.h">
+			<Option target="open_MP_SOS_v1"/>
+		</Unit>
+		<Unit filename="/public/app/clion-2019.3.3/open_MP_SOS_64_layers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

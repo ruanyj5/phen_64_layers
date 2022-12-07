@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="open_MP_EOS_v1" targetName="open_MP_EOS_v1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7b34150-ed7f-4fd2-9356-554168a5dc11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1iEEQY1dpHXWLPtpDu8Glb5woli" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../open_MP_SOS_64_layers" />
+  </component>
+  <component name="RunManager">
+    <configuration name="open_MP_EOS_v1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="open_MP_EOS_v1" TARGET_NAME="open_MP_EOS_v1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="open_MP_EOS_v1" RUN_TARGET_NAME="open_MP_EOS_v1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b34150-ed7f-4fd2-9356-554168a5dc11" name="Default Changelist" comment="" />
+      <created>1601464335429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601464335429</updated>
+      <workItem from="1601464336864" duration="684000" />
+      <workItem from="1602759857928" duration="1202000" />
+      <workItem from="1603266408117" duration="233000" />
+      <workItem from="1670316390272" duration="158000" />
+      <workItem from="1670316618214" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="900" y="477" key="FileChooserDialogImpl" timestamp="1670316649375">
+      <screen x="65" y="24" width="2095" height="1416" />
+    </state>
+    <state x="900" y="477" key="FileChooserDialogImpl/65.24.2095.1416@65.24.2095.1416" timestamp="1670316649375" />
+    <state x="785" y="547" key="com.intellij.ide.util.TipDialog" timestamp="1670316622539">
+      <screen x="65" y="24" width="2095" height="1416" />
+    </state>
+    <state x="785" y="547" key="com.intellij.ide.util.TipDialog/65.24.2095.1416@65.24.2095.1416" timestamp="1670316622539" />
+  </component>
+</project>
